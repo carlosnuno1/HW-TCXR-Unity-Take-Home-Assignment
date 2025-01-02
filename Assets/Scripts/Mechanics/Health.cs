@@ -89,6 +89,7 @@ namespace Platformer.Mechanics
 
         /// <summary>
         /// Update the UI to reflect the current health status.
+        /// Commented out since missing files
         /// </summary>
         //private void UpdateHeartUI()
         //{
