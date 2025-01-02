@@ -1,0 +1,7 @@
+Question 1
+
+I commited about 1 hour to question 1. I updated the code, though not fully, to make the player's health status into hearts.
+each heart has 2 hp, totaling into 10 hp as I gave the number hearts = 5. 
+there is also a render of a hear that I created through blender, very simple. 
+
+For every collision with a red slime, the player will lose 2 hp, meaning they will lose 1 heart per hit.
