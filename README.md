@@ -5,12 +5,13 @@ Unity Project Take Home Test
 Please understand there is NO FAIL, this is simply to better understand your level of understanding of the UNITY platform. We will be taking a number of candidates for this semester as training and better developing your UNITY skills. All of our 20 plus interns are here for our Friday AM experience walk throughs so we can better align our data (i.e., we need a classroom sized internship to better develop our data from the students). So how much you learn and train from our internship is up to you, but we give you a lot of ability to really learn about developing in a production environment.
 
 # Instructions
-1. Clone the repository to your local machine.
-2. Create a new branch from main branch and publish your branch
-3. Read each question below and work through them.
-4. Please commit each answer with comments on which question the commit addresses.  It is OK to go back and change previous answers if you jump around in the test, just note it in your commit. We are most interested in your thinking through the process of doing the homework, so the more you explain why you did what you did is very helpful for us and you.
-5. Once you have pushed all the commits to your branch, create a pull request fromm your branch to the main branch to submit your final answers(don't merge the request after creating a pull request). At this stage, you've completed the assignment and we will do a code review and get back to you. 
-6. We ask you to take no more than 2 hours on the test and to self report how long you worked on it. If you are struggling on anything, please ask us (chat in linkedin) and we will help you. Again, this is not meant to be a pass/fail environment, but rather gathering information for your strengths and weaknesses in Unity. And the first 3 questions should really go fast for you. The last question is meant to show your design thinking, please walk us through your thought process for the design.
+1. Send your Github username to Ray so that we can invite you as an external collaborator to this repo. Accept the invitation and follow next steps
+2. Clone the repository to your local machine.
+3. Create a new branch from main branch and publish your branch
+4. Read each question below and work through them.
+5. Please commit each answer with comments on which question the commit addresses.  It is OK to go back and change previous answers if you jump around in the test, just note it in your commit. We are most interested in your thinking through the process of doing the homework, so the more you explain why you did what you did is very helpful for us and you.
+6. Once you have pushed all the commits to your branch, create a pull request fromm your branch to the main branch to submit your final answers(don't merge the request after creating a pull request). At this stage, you've completed the assignment and we will do a code review and get back to you. 
+7. We ask you to take no more than 2 hours on the test and to self report how long you worked on it. If you are struggling on anything, please ask us (chat in linkedin) and we will help you. Again, this is not meant to be a pass/fail environment, but rather gathering information for your strengths and weaknesses in Unity. And the first 3 questions should really go fast for you. The last question is meant to show your design thinking, please walk us through your thought process for the design.
 
 # Other Tips
 - The project is using Unity version 2023.2.0f1
