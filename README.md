@@ -6,7 +6,7 @@ Please understand there is NO FAIL, this is simply to better understand your lev
 
 # Instructions
 1. Clone the repository to your local machine.
-2. Create a new branch from main branch
+2. Create a new branch from main branch and publish your branch
 3. Read each question below and work through them.
 4. Please commit each answer with comments on which question the commit addresses.  It is OK to go back and change previous answers if you jump around in the test, just note it in your commit. We are most interested in your thinking through the process of doing the homework, so the more you explain why you did what you did is very helpful for us and you.
 5. Once you have pushed all the commits to your branch, create a pull request fromm your branch to the main branch to submit your final answers(don't merge the request after creating a pull request). At this stage, you've completed the assignment and we will do a code review and get back to you. 
